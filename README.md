@@ -17,5 +17,6 @@ I'm currently working at @amnezia-vpn.
 ### Contact me on:
 
 [Telegram](https://t.me/ShehabGuii)
+[LinkedIn](https://www.linkedin.com/in/shehab-a-55b937334/)
 
 Gmail: shehabahmed.guii@gmail.com
