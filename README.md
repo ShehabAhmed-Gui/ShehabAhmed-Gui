@@ -11,10 +11,10 @@ I'm currently learning design tools, And design guidelines to improve my design 
 * Git
 * JSON
 * Data Structures
+* SQLite
+* 
 
-I'm currently working at @amnezia-vpn.
-
-### Contact me on:
+### Contact me:
 
 [Telegram](https://t.me/ShehabGuii)
 [LinkedIn](https://www.linkedin.com/in/shehab-a-55b937334/)
