@@ -2,7 +2,7 @@ Hey there, I'm Shehab, I'm a junior software developer with one year of work exp
 
 I have a passion in designing and developing modern desktop/mobile applications.
 
-I'm currently learning design tools, And design guidelines to improve my design following platforms design guidelines for developing applications for these platforms and with a touch of creativity.
+I'm currently improving my problem-solving skills, and making personal projects.
 
 ## My Skills:
 * C++
@@ -12,7 +12,6 @@ I'm currently learning design tools, And design guidelines to improve my design 
 * JSON
 * Data Structures
 * SQLite
-* 
 
 ### Contact me:
 
