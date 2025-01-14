@@ -1,4 +1,4 @@
-Hey there, I'm Shehab, I'm a junior software developer with one year of work experience.
+Hey there, I'm Shehab, I'm a junior software engineer with one year of work experience.
 
 I have a passion in designing and developing modern desktop/mobile applications.
 
