@@ -15,7 +15,7 @@ I'm currently improving my problem-solving skills, and making personal projects.
 * Data Structures
 * SQLite
 
-## Have knowledge about
+## Have knowledge about:
 * Multithreading
 * Distributed systems
 
