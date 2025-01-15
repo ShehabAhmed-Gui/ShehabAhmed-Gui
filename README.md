@@ -6,12 +6,18 @@ I'm currently improving my problem-solving skills, and making personal projects.
 
 ## My Skills:
 * C++
-* Qt Framework (QML, Qt Widgets, QtCreator)
+* Fundamentals of Cryptography
+* Fundamentals of Networking
+* Qt Framework
 * CMake
 * Git
 * JSON
 * Data Structures
 * SQLite
+
+## Have knowledge about
+* Multithreading
+* Distributed systems
 
 ### Contact me:
 
@@ -19,6 +25,6 @@ I'm currently improving my problem-solving skills, and making personal projects.
 
 [LinkedIn](https://www.linkedin.com/in/shehab-a-55b937334/)
 
-Or contact me @discord: username: shehab6600
+[Gmail](shehabahmed.guii@gmail.com): shehabahmed.guii@gmail.com
 
-Gmail: shehabahmed.guii@gmail.com
+Or contact me @discord: username: shehab6600
