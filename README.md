@@ -16,6 +16,9 @@ I'm currently improving my problem-solving skills, and making personal projects.
 ### Contact me:
 
 [Telegram](https://t.me/ShehabGuii)
+
 [LinkedIn](https://www.linkedin.com/in/shehab-a-55b937334/)
+
+Or contact me @discord: username: shehab6600
 
 Gmail: shehabahmed.guii@gmail.com
