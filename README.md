@@ -14,6 +14,8 @@ I'm currently improving my problem-solving skills, and making personal projects.
 * JSON
 * Data Structures
 * SQLite
+* OpenVPN
+* WireGuard
 
 ## Have knowledge about:
 * Multithreading
