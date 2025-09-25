@@ -6,6 +6,7 @@ I'm currently improving my problem-solving skills.
 
 ## Skills:
 * C++
+* Windows Services
 * Fundamentals of Cryptography
 * Networking
 * Qt Framework
