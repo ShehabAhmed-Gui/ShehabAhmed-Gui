@@ -6,24 +6,24 @@ I'm currently improving my problem-solving skills.
 
 ## Skills:
 * C++
-* Windows Services
-* Fundamentals of Cryptography
+* Multithreading
+* Cryptography
 * Networking
 * Qt Framework
+* VPN
 * CMake
 * Git
 * JSON
 * Data Structures
 * SQLite
-* VPN
 * OpenVPN
 * WireGuard
 * Windows
+* Windows Services
 * Linux
 * MacOS
 
 ## Have knowledge about:
-* Multithreading
 * Distributed systems
 
 ### Contact me:
