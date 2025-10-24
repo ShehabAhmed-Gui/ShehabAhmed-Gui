@@ -32,6 +32,6 @@ I'm currently improving my problem-solving skills.
 
 [LinkedIn](https://www.linkedin.com/in/shehab-a-55b937334/)
 
-[Email](shehabahmed.guii@gmail.com): shehabahmed.guii@gmail.com
+Email: shehabahmed.guii@gmail.com
 
-Or contact me @discord: username: shehab6600
+Discord: shehab6600
