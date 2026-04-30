@@ -15,16 +15,13 @@ I'm currently improving my problem-solving skills.
 * Git
 * JSON
 * Data Structures
-* SQLite
+* PostgreSQL
 * OpenVPN
 * WireGuard
+* Windows, macOS and Linux service/daemons development
 * Windows
-* Windows Services
 * Linux
 * MacOS
-
-## Have knowledge about:
-* Distributed systems
 
 ### Contact me:
 
