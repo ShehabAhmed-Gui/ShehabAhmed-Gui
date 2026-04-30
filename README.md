@@ -9,7 +9,7 @@ I'm currently improving my programming skills while looking for a job.
 
 Feel free to contact me for anything.
 
-## Skills:
+## Skills
 * C++
 * Multithreading
 * Cryptography
@@ -28,7 +28,7 @@ Feel free to contact me for anything.
 * Linux
 * macOS
 
-## Contact me:
+## Contact me
 [Telegram](https://t.me/ShehabGuii)
 
 [LinkedIn](https://www.linkedin.com/in/shehab-a-55b937334/)
