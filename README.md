@@ -1,8 +1,12 @@
-Hey there, I'm Shehab, I'm a junior C++ software engineer with 1.5 years of work experience.
+Hi, I'm Shehab 👋
+I'm an expert desktop developer with more than 3 years of experience building commercial desktop applications
+used by thousands of real users.
 
-I have a passion in designing and developing modern desktop applications.
+I also care about fitness and I go to the gym regurlarly.
 
-I'm currently improving my problem-solving skills.
+I'm currently improving my programming skills while looking for a job.
+
+Feel free to contact me for anything.
 
 ## Skills:
 * C++
@@ -10,7 +14,7 @@ I'm currently improving my problem-solving skills.
 * Cryptography
 * Networking
 * Qt Framework
-* VPN
+* VPN Development
 * CMake
 * Git
 * JSON
@@ -18,10 +22,10 @@ I'm currently improving my problem-solving skills.
 * PostgreSQL
 * OpenVPN
 * WireGuard
-* Windows, macOS and Linux service/daemons development
+* Services/Daemons Development
 * Windows
 * Linux
-* MacOS
+* macOS
 
 ### Contact me:
 
