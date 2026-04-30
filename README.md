@@ -28,8 +28,7 @@ Feel free to contact me for anything.
 * Linux
 * macOS
 
-### Contact me:
-
+## Contact me:
 [Telegram](https://t.me/ShehabGuii)
 
 [LinkedIn](https://www.linkedin.com/in/shehab-a-55b937334/)
